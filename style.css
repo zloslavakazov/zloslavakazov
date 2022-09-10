@@ -1,0 +1,27 @@
+body{
+    background-color: #926EAE;
+}
+input{
+    margin-top: 5px;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
+.Forma{
+    background-color: #957B8D (141, 149);
+    border: 2px;
+    border-radius: 10px;
+    margin-top:50px;
+} 
+.namana{
+    padding-top: 30px;
+}
+.button{
+    text-align: center;
+}
+button{
+    border-radius: 5px;
+}
